@@ -1,4 +1,4 @@
 # shreya-demo
-this is my repository 
+This is my repository.
 <br>
-author _ shreya
+Author-shreya
